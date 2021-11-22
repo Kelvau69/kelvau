@@ -1,0 +1,9 @@
+apt install git
+apt install python
+pkg upgrade
+pkg install python
+git clone https://github.com/kelvau.git
+cd kelvau
+ls
+ls
+python2 kelvau.py
