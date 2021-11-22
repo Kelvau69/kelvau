@@ -1,0 +1,6 @@
+apt update
+apt upgrade
+apt install gut
+git clone https://github.com/Kelvin.git
+cd Kelvin
+Python2 Kelvin.py
